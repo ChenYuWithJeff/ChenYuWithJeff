@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChenYuWithJeff
-- 👀 I’m interested in sing,jump,rap and play basketball,music
-- 🌱 I’m currently learning CSGO.
-- 💞️ I’m looking to collaborate on fight for the artist competition.
+- 👋 Hi, I’m @ChenYuWithCat.
+- 👀 I’m interested in ?
+- 🌱 I’m currently learning CS.
+- 💞️ I’m looking to collaborate on every thing.
 - 📫 How to reach me:outlook:cy1761172596@outlook.com
 
 <!---
